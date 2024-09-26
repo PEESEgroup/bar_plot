@@ -1,6 +1,6 @@
 # How to create bar plots in Python
 
-This repository provides simple examples of how to create bar plots in Python using popular libraries like Matplotlib and Seaborn. You will find both a Jupyter notebook and a Python script, allowing you to run the code interactively or as a standalone script.
+This repository provides simple examples of how to create bar plots in Python using popular libraries like Matplotlib. You will find both a Jupyter notebook and a Python script, allowing you to run the code interactively or as a standalone script.
 
 ## Files in the Repository
 
@@ -20,7 +20,7 @@ This repository provides simple examples of how to create bar plots in Python us
 To run the code, you will need the following Python libraries:
 
 ```bash
-pip install matplotlib seaborn
+pip install matplotlib
 ```
 ## Usage
 
